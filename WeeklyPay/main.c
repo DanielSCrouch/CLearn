@@ -43,3 +43,6 @@ int main()
     printf("Net pay: %.2f\n", netPay);
 
 }
+
+// skip to next iteration with 'continue' 
+// exit loop with 'break' 
