@@ -20,7 +20,7 @@ int main()
         scanf("%d", &gNum);
         if (gNum < rNum) 
             printf("Too low!\n");
-        else if (gNum > rNum) 
+        else if (gNum > rNum)  
             printf("Too high!\n"); 
         ++tries;
     }
@@ -30,4 +30,3 @@ int main()
         printf("Game Over!\n");
 
 }
-
