@@ -36,8 +36,5 @@ int main()
     printf("--------\n");
     printf("Average yearly: %.2f\n", rainTotal / YEARS);
 
-
-
-
     return 0;
 }
